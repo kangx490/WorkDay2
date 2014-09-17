@@ -16,7 +16,6 @@ Public Class Form1
         ElseIf num1 < num2 Then
             largerNum = num2
         End If
-
         txtResult.Text = "the largernum is " & largerNum
 
     End Sub
